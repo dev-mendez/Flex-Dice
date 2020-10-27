@@ -1,0 +1,8 @@
+@import "cssReset";
+@import "var";
+@import "dice";
+
+.container {
+  display: flex;
+  justify-content: center;
+}
