@@ -1,0 +1,14 @@
+section {
+  border: solid 1px red;
+  height: 35vh;
+  margin: 2em;
+  padding: 2em;
+}
+
+img {
+  width: 25%;
+  margin: 2em;
+  &:last-child{
+    filter: sepia();
+  }
+}

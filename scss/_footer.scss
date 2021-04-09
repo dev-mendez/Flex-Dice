@@ -1,0 +1,14 @@
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  background-color: rgba(41, 7, 41, 0.597);
+  text-align: center;
+  p {
+    align-self: center;
+    padding: 2vh;
+    color: rgb(8, 2, 2);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 0.8em;
+  }
+}
